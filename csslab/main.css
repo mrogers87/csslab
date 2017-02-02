@@ -1,0 +1,15 @@
+header, footer {
+    color: lightblue;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+#imagelist img {
+display: inline-block;
+margin: 2px 10px;}
+
+#imagelist {
+	font-size: 0;
+	width: 900px;
+	margin: 2px auto
+}
